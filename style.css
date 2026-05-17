@@ -79,8 +79,13 @@ ul {
     & a {
         text-decoration: none;
         text-align: right;
+        color: rgb(0, 76, 255);
     }
     line-height: 2;
+}
+
+.verification-line a {
+    color: rgb(0, 76, 255);
 }
 
 .hero-connections a:hover {
